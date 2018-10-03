@@ -2,7 +2,7 @@
  * delay.c
  *
  *  Created on: Sep 20, 2018
- *      Author: LuisFernando
+ *      Author: Andrea, Fernanda & Fernando
  */
 
 #include "delay.h"
